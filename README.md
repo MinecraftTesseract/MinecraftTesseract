@@ -2,7 +2,7 @@
 
 # MinecraftTesseract
 
-![MinecraftTesseract](path/to/logo.png)
+![MinecraftTesseract](logo.png)
 
 Welcome to MinecraftTesseract's GitHub profile! We create and share mods, tools, and resources for Minecraft Bedrock Edition to enhance the Minecraft experience.
 
