@@ -12,7 +12,7 @@ MinecraftTesseract is a collective of developers and designers dedicated to modd
 
 ## Get in Touch
 
-- **Discord**: Coming soon...
+- **Discord**: https://discord.gg/awp7MMQ83z
 - **Twitter**: Coming soon...
 
 ---
